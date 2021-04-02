@@ -1,0 +1,6 @@
+# MLClassificationAndRegression
+## Machine Learning Classification and Regression Analysis
+### Classification Problem Statement:
+A travel insurance company would like to offer a discounted premium (for the same cover re- quested) to customers that are less likely to make a future claim. The manager contacts you to investigate the feasibility of using machine learning to predict whether a customer will file a claim on their travel. The manager has access to historical data of past policies and she offers to provide you with information about the insured, the purpose and destination of the travel, and whether a claim was filed or not?
+### Regression Problem Statement:
+A travel insurance company would like to offer a discounted premium (for the same cover re- quested) to customers that are less likely to make a future claim. The manager contacts you to investigate the feasibility of using machine learning to predict whether a customer will file a claim on their travel. The manager has access to historical data of past policies and she offers to provide you with information about the insured, the purpose and destination of the travel, they would like you to predict not only if the insured files a claim but also the value of the claim.
